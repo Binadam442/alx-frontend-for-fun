@@ -182,8 +182,7 @@
   
   .row {
     display: flex;
-  }    
-
+  }
   ul.row {
     margin: 0;
     padding: 0;
@@ -257,9 +256,9 @@
   
   .header {
     padding: var(--header-padding);
-    position: relative;
-    z-index: 3;
-    background: transparent;
+         position: relative;
+         z-index: 3;
+         background: transparent;
   }
   
   .header-logo {
